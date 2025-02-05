@@ -8,6 +8,10 @@ const navItems = [
     path : '/'
   },
   {
+    label:"Teacher",
+    path:'/teacher'
+  },
+  {
     label:"Holidays' Calendar",
     path:'/holidays'
   },
