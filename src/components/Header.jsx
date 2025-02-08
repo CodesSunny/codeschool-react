@@ -48,7 +48,7 @@ const handleOpen =() =>{
           {/* Left: Logo and School Name */}
           <div className="basis-1/5 flex items-center gap-2">
             <div className="w-16 h-16 border-2 border-blue-500 rounded-full overflow-hidden">
-              <img src="/src/assets/images/logo_school.png" alt="School Logo"  className='w-[100%] h-[100%] object-cover'/>
+              <img src="./src/assets/images/logo_school.png" alt="School Logo"  className='w-[100%] h-[100%] object-cover'/>
             </div>
             <div className=' w-36'>
               <h1 className="text-xl font-bold  text-center "> Web Hut</h1>
