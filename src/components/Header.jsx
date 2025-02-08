@@ -47,8 +47,8 @@ const handleOpen =() =>{
         <div className="min-w-screen flex justify-between items-center ">
           {/* Left: Logo and School Name */}
           <div className="basis-1/5 flex items-center gap-2">
-            <div className="w-16 h-16 border-2 border-blue-500 rounded-full overflow-hidden">
-              <img src="./src/assets/images/logo_school.png" alt="School Logo"  className='w-[100%] h-[100%] object-cover'/>
+            <div className="w-24 h-24 border-4 border-blue-800 rounded-full overflow-hidden">
+              <img src="../images/logo/logo.jpg" alt="School Logo"  className='w-[100%] h-[100%] object-cover'/>
             </div>
             <div className=' w-36'>
               <h1 className="text-xl font-bold  text-center "> Web Hut</h1>

@@ -4,56 +4,56 @@ const PersonData = [
         name:"Rohit",
         class:"12th",
         rank: "5th",
-        path: '/teachers/a.jpg'
+        path: '/images/teachers/a.jpg'
     },
     {
         id:2,
         name:"Sunny",
         class:"10th",
         rank: "4th",
-        path: '/teachers/b.jpg'
+        path: '/images/teachers/b.jpg'
     },
      {
         id:3,
         name:"hema",
         class:"12th",
         rank: "10th",
-        path: '/teachers/c.jpg'
+        path: '/images/teachers/c.jpg'
     },
     {
         id:4,
         name:"avinash",
         class:"MBA",
         rank: "1st",
-        path:'/teachers/d.jpg'
+        path:'/images/teachers/d.jpg'
     },
     {
         id:5,
         name:"kunal",
         class:"B. Com",
         rank: "6th",
-        path: '/teachers/e.jpg'
+        path: '/images/teachers/e.jpg'
     },
     {
         id:6,
         name:"arpit",
         class:"B.Tech",
         rank: "9th",
-        path: '/teachers/f.jpg'
+        path: '/images/teachers/f.jpg'
     },
     {
         id:7,
         name:"pranay",
         class:"CA",
         rank: "8th",
-        path: '/teachers/g.jpg'
+        path: '/images/teachers/g.jpg'
     },
     {
         id:8,
         name:"sajan",
         class:"B.Sc Maths",
         rank: "1st",
-        path:  '/teachers/h.jpg'
+        path:  '/images/teachers/h.jpg'
     },
     {
         id:9,
@@ -67,21 +67,21 @@ const PersonData = [
         name:"prasiddha",
         class:"CA",
         rank: "3rd",
-        path:  '/teachers/j.jpg'
+        path:  '/images/teachers/j.jpg'
     },
     {
         id:11,
         name:"mehul",
         class:"B.Com",
         rank: "2nd",
-        path: '/teachers/k.jpg'
+        path: '/images/teachers/k.jpg'
     },
     {
         id:12,
         name:"arvind",
         class:"MBA",
         rank: "7th",
-        path: '/teachers/l.jpg'
+        path: '/images/teachers/l.jpg'
     }
 ];
 
